@@ -1,4 +1,4 @@
-<center><font size='70'> Hi, I'm Bin Duan 👋 </font></center>
+<div align='center' ><font size='70'> Hi, I'm Bin Duan 👋 </font></div>
 
 <center><font size='5'> Welcome to my homepage </font></center>
 
