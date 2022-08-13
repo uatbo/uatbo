@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align='center' ><font size='10'> Hi, I'm Bin Duan 👋 </font></div>
+
+<div align='center' ><font size='5'> Welcome to my homepage </font></div>
 
 <!--
 **uatbo/uatbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
