@@ -1,7 +1,5 @@
 <h1 align='center' ><font size='10'> Hi, I'm Bin Duan 👋 </font></h1>
 
-<div align='center' ><font size='5'> Welcome to my homepage </font></div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uatbo&layout=compact)](https://github.com/uatbo/github-readme-stats)
 ![uatbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uatbo&show_icons=true&theme=tokyonight)
 - 🔭 I’m currently working on mnist-Go
