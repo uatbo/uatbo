@@ -6,7 +6,7 @@
 
 <h1 align="center">&lt; 👋Nǐ Hǎo, World! /&gt;</h1>
 
-### <div align="center">I'm Bin Duan, a freelance developer (student) 🤯 starting to code since 2013 🚀</div>  
+### <div align="center">I'm Bin Duan, a freelance developer (student) 🤯 starting to code since 2020 🚀</div>  
 
 
 - 🔭 I’m currently working on Computer Vision.  
