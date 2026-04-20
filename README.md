@@ -1,15 +1,3 @@
-# 👋 Hello
+# <p align="center">👋 Hello</p>
 
-### Welcome to my GitHub profile
-
-✨ Code • Learn • Build • Repeat ✨
-
----
-
-💻 Keep creating
-🚀 Keep growing
-🌱 Keep learning
-
----
-
-### Thanks for visiting ✨
+### <p align="center">💻 Keep creating 🚀 Keep growing 🌱 Keep learning</p>
